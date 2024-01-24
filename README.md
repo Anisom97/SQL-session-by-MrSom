@@ -1,1 +1,1 @@
-Kindly refer SQL ALL CLASS CONSOLIDATED file.
+Kindly refer SQL ALL CLASSES CONSOLIDATED file.
